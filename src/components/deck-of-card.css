@@ -1,0 +1,19 @@
+section {
+  max-width: 1200px;
+  margin: auto;
+  background-color: rgb(182, 180, 180);
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
